@@ -1,0 +1,29 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+.lorem-ipsum-block{
+  max-width: 1000px
+}
+.image-of-text{
+  min-width: 100px;
+}
+.lorem-ipsum{
+  text-decoration: overline;
+}
+.navigation{
+  display: flex;
+  gap:4px;
+}
+.nav-item{
+  list-style: none;
+}
+.button{
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 5px;
+  
+}
